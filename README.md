@@ -9,7 +9,7 @@
 ╚═════╝ ╚═╝╚═╝     ╚═╝╚══════╝
 </pre>
 
-<em>Mechanical engineer. Also ships software.</em>
+<em>Mechanical engineer who ships software for fun.</em>
 
 <p>
   <a href="https://github.com/dime-online">
@@ -28,7 +28,7 @@
 
 ```yaml
 # dime.yaml
-role:      mechanical engineer · ships software
+role:      mechanical engineer · builds useful tools on the side
 focus:     [ neural nets & ML, VR hardware, applied CV, hardware product dev ]
 current:   Catboard — voice-cloning soundboard (closed beta)
 ```
