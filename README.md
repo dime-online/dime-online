@@ -1,6 +1,6 @@
 <div align="center">
 
-```
+<pre>
 __/\\\\\\\\\\\\_____/\\\\\\\\\\\__/\\\\____________/\\\\__/\\\\\\\\\\\\\\\_
  _\/\\\////////\\\__\/////\\\///__\/\\\\\\________/\\\\\\_\/\\\///////////__
   _\/\\\______\//\\\_____\/\\\_____\/\\\//\\\____/\\\//\\\_\/\\\_____________
@@ -10,7 +10,7 @@ __/\\\\\\\\\\\\_____/\\\\\\\\\\\__/\\\\____________/\\\\__/\\\\\\\\\\\\\\\_
       _\/\\\_______/\\\______\/\\\_____\/\\\_____________\/\\\_\/\\\_____________
        _\/\\\\\\\\\\\\/____/\\\\\\\\\\\_\/\\\_____________\/\\\_\/\\\\\\\\\\\\\\\_
         _\////////////_____\///////////__\///______________\///__\///////////////__
-```
+</pre>
 
 <em>Mechanical engineer. Also ships software.</em>
 
@@ -43,6 +43,8 @@ current:   Catboard — voice-cloning soundboard (closed beta)
 | **Catboard** — voice-cloning soundboard for Discord / VRChat · Windows · closed beta | Seedance watermark remover |
 | **Varjo eye streamer** — bridge for Varjo headset eye-tracking | SteamVR lighthouse BLE control |
 | **Vive Pro Eye disconnect watchdog** — Windows tray utility | |
+| **Personal site** — home base + project index | |
+| **Download center** — public Windows installers for the above | |
 
 ### Contact
 
