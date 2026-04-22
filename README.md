@@ -1,12 +1,11 @@
 <div align="center">
 
 <pre>
- ██████╗  ██╗ ███╗   ███╗ ███████╗
- ██╔══██╗ ██║ ████╗ ████║ ██╔════╝
- ██║  ██║ ██║ ██╔████╔██║ █████╗
- ██║  ██║ ██║ ██║╚██╔╝██║ ██╔══╝
- ██████╔╝ ██║ ██║ ╚═╝ ██║ ███████╗
- ╚═════╝  ╚═╝ ╚═╝     ╚═╝ ╚══════╝
+██████  ██ ███    ███ ███████
+██   ██ ██ ████  ████ ██
+██   ██ ██ ██ ████ ██ █████
+██   ██ ██ ██  ██  ██ ██
+██████  ██ ██      ██ ███████
 </pre>
 
 <p><em>Mechanical engineer. Also ships software.</em></p>
@@ -15,8 +14,8 @@
   <a href="https://github.com/dime-online">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
-  <img src="https://img.shields.io/badge/status-shipping-7c5cfc?style=for-the-badge" alt="status" />
-  <img src="https://img.shields.io/badge/platform-windows-0078d6?style=for-the-badge&logo=windows&logoColor=white" alt="platform" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android" />
   <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="cuda" />
 </p>
 
