@@ -33,7 +33,7 @@ current:   Catboard — voice-cloning soundboard (closed beta)
 | **Varjo eye streamer** — bridge for Varjo headset eye-tracking | SteamVR lighthouse BLE control |
 | **Vive Pro Eye disconnect watchdog** — Windows tray utility | |
 | **Personal site** — home base + project index | |
-| **Download center** — public Windows installers for the above | |
+| **Download center** — public Windows installers for some of the above · hosting | |
 | *…more coming soon* | *…and others* |
 
 ### Contact
