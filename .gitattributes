@@ -1,0 +1,17 @@
+# Let git auto-detect text vs binary, then normalise text to LF on
+# commit regardless of the contributor's platform. Checkouts still use
+# the platform's native line endings (so Windows editors stay happy),
+# but the repo on GitHub is LF-only — which is what GitHub renders from
+# anyway, and what the dime.svg <text> elements expect.
+* text=auto
+
+# Explicitly tag what's text so git doesn't have to guess.
+*.md    text
+*.svg   text
+*.txt   text
+
+# Images stay binary.
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.ico   binary
