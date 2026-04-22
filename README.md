@@ -1,15 +1,12 @@
 <div align="center">
 
 <pre>
-__/\\\\\\\\\\\\_____/\\\\\\\\\\\__/\\\\____________/\\\\__/\\\\\\\\\\\\\\\_
- _\/\\\////////\\\__\/////\\\///__\/\\\\\\________/\\\\\\_\/\\\///////////__
-  _\/\\\______\//\\\_____\/\\\_____\/\\\//\\\____/\\\//\\\_\/\\\_____________
-   _\/\\\_______\/\\\_____\/\\\_____\/\\\\///\\\/\\\/_\/\\\_\/\\\\\\\\\\\_____
-    _\/\\\_______\/\\\_____\/\\\_____\/\\\__\///\\\/___\/\\\_\/\\\///////______
-     _\/\\\_______\/\\\_____\/\\\_____\/\\\____\///_____\/\\\_\/\\\_____________
-      _\/\\\_______/\\\______\/\\\_____\/\\\_____________\/\\\_\/\\\_____________
-       _\/\\\\\\\\\\\\/____/\\\\\\\\\\\_\/\\\_____________\/\\\_\/\\\\\\\\\\\\\\\_
-        _\////////////_____\///////////__\///______________\///__\///////////////__
+██████╗ ██╗███╗   ███╗███████╗
+██╔══██╗██║████╗ ████║██╔════╝
+██║  ██║██║██╔████╔██║█████╗  
+██║  ██║██║██║╚██╔╝██║██╔══╝  
+██████╔╝██║██║ ╚═╝ ██║███████╗
+╚═════╝ ╚═╝╚═╝     ╚═╝╚══════╝
 </pre>
 
 <em>Mechanical engineer. Also ships software.</em>
@@ -18,7 +15,7 @@ __/\\\\\\\\\\\\_____/\\\\\\\\\\\__/\\\\____________/\\\\__/\\\\\\\\\\\\\\\_
   <a href="https://github.com/dime-online">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" alt="windows" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgMy40NDlMOS43NSAyLjF2OS40NTFIMG0xMC45NDktOS42MDJMMjQgMHYxMS40SDEwLjk0OU0wIDEyLjZoOS43NXY5LjQ1MUwwIDIwLjY5OU0xMC45NDkgMTIuNkgyNFYyNGwtMTMuMDUxLTEuODAxIi8%2BPC9zdmc%2B" alt="windows" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android" />
   <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="cuda" />
 </p>
@@ -27,12 +24,12 @@ __/\\\\\\\\\\\\_____/\\\\\\\\\\\__/\\\\____________/\\\\__/\\\\\\\\\\\\\\\_
 
 &nbsp;
 
-> Working at the intersection of **neural audio**, **VR hardware**, **applied computer vision**, and **hardware product development**.
+> Working at the intersection of **neural nets & ML**, **VR hardware**, **applied computer vision**, and **hardware product development**.
 
 ```yaml
 # dime.yaml
 role:      mechanical engineer · ships software
-focus:     [ neural audio, VR hardware, applied CV, hardware product dev ]
+focus:     [ neural nets & ML, VR hardware, applied CV, hardware product dev ]
 current:   Catboard — voice-cloning soundboard (closed beta)
 ```
 
@@ -45,6 +42,7 @@ current:   Catboard — voice-cloning soundboard (closed beta)
 | **Vive Pro Eye disconnect watchdog** — Windows tray utility | |
 | **Personal site** — home base + project index | |
 | **Download center** — public Windows installers for the above | |
+| *…more coming soon* | *…and others* |
 
 ### Contact
 
