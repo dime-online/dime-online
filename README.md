@@ -8,7 +8,7 @@
 ██████  ██ ██      ██ ███████
 </pre>
 
-<p><em>Mechanical engineer. Also ships software.</em></p>
+<em>Mechanical engineer. Also ships software.</em>
 
 <p>
   <a href="https://github.com/dime-online">
@@ -19,45 +19,30 @@
   <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="cuda" />
 </p>
 
-<pre>
-▂▃▅▇█▇▅▃▂▃▅▇█▇▅▃▂▃▅▇█▇▅▃▂▃▅▇█▇▅▃▂▃▅▇█▇▅▃▂▃▅▇█▇▅▃▂▃▅▇█▇▅▃▂▃▅▇█▇▅▃
-╶────────  neural audio · VR hardware · applied CV · hardware product dev  ────────╴
-</pre>
-
 </div>
 
+&nbsp;
+
+> Working at the intersection of **neural audio**, **VR hardware**, **applied computer vision**, and **hardware product development** — the unglamorous parts of shipping AI software, where academia ends and a working `.exe` begins.
+
+```yaml
+# dime.yaml
+alias:      Dime
+role:       mechanical engineer · ships software
+domains:    [ neural audio, VR hardware, applied CV, hardware product dev ]
+active:     Catboard — voice-cloning soundboard (closed beta)
+method:     design the problem, iterate with an agent-in-loop
+shipping:   one machine · no cluster · no subscription · no PhD
 ```
-┌──────────────────────────────────────────────────────────────────┐
-│   real-world problem  ──▶  [ DIME ]  ──▶  runs on one machine    │
-└──────────────────────────────────────────────────────────────────┘
 
- trained    mechanical engineer
- ships      software, with an agent-in-loop
- domains    neural audio · VR hardware · applied CV · hardware dev
- active     Catboard — voice-cloning soundboard (closed beta)
- bar        no cluster · no subscription · no PhD
-```
+### What I'm building
 
-## Currently
+| **Private** | **Public** |
+| --- | --- |
+| **Catboard** — voice-cloning soundboard for Discord / VRChat · Windows · closed beta | **Seedance watermark remover** — OpenCV + LaMa inpainting · MIT |
+| **Varjo eye streamer** — bridge for Varjo headset eye-tracking | **SteamVR lighthouse control** — BLE power management |
+| **Vive Pro Eye disconnect watchdog** — Windows tray utility | _…more as they mature_ |
 
-**Catboard** — voice-cloning soundboard for Discord / VRChat. Clone a friend
-from ten seconds of audio, route through a virtual mic. Windows, closed
-beta, private.
+### Contact
 
-Other work is quieter.
-
-## Public vs. private
-
-Most of what I build lives on friends' machines or in private repos. Public
-repos here are small utilities I've extracted because they're useful
-standalone — SteamVR lighthouse control over BLE, watermark removal for
-AI-generated video, eye-tracking watchdogs for Vive Pro Eye / Varjo.
-
-## Handles
-
-- **`dime-online`** on GitHub · **Dime** everywhere else.
-- No real name by choice.
-
-## Contact
-
-GitHub DMs. Reply time depends on whether I'm shipping.
+`dime-online` on GitHub · DMs open · no real name by choice · reply time depends on whether I'm shipping
