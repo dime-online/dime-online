@@ -38,12 +38,12 @@ current:   Catboard — voice-cloning soundboard (closed beta)
 
 ### What I'm building
 
-| **Private** | **Public** |
+| **Public** | **Private** |
 | --- | --- |
-| **Catboard** — voice-cloning soundboard for Discord / VRChat · Windows · closed beta | **Seedance watermark remover** — OpenCV + LaMa inpainting · MIT |
-| **Varjo eye streamer** — bridge for Varjo headset eye-tracking | **SteamVR lighthouse control** — BLE power management |
-| **Vive Pro Eye disconnect watchdog** — Windows tray utility |  |
+| **Catboard** — voice-cloning soundboard for Discord / VRChat · Windows · closed beta | Seedance watermark remover |
+| **Varjo eye streamer** — bridge for Varjo headset eye-tracking | SteamVR lighthouse BLE control |
+| **Vive Pro Eye disconnect watchdog** — Windows tray utility | |
 
 ### Contact
 
-`dime-online` on GitHub · DMs open · anonymous by choice
+`dime-online` on GitHub · DMs open
