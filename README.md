@@ -1,3 +1,5 @@
+<div align="center">
+
 ```
 __/\\\\\\\\\\\\_____/\\\\\\\\\\\__/\\\\____________/\\\\__/\\\\\\\\\\\\\\\_
  _\/\\\////////\\\__\/////\\\///__\/\\\\\\________/\\\\\\_\/\\\///////////__
@@ -9,8 +11,6 @@ __/\\\\\\\\\\\\_____/\\\\\\\\\\\__/\\\\____________/\\\\__/\\\\\\\\\\\\\\\_
        _\/\\\\\\\\\\\\/____/\\\\\\\\\\\_\/\\\_____________\/\\\_\/\\\\\\\\\\\\\\\_
         _\////////////_____\///////////__\///______________\///__\///////////////__
 ```
-
-<div align="center">
 
 <em>Mechanical engineer. Also ships software.</em>
 
@@ -27,16 +27,13 @@ __/\\\\\\\\\\\\_____/\\\\\\\\\\\__/\\\\____________/\\\\__/\\\\\\\\\\\\\\\_
 
 &nbsp;
 
-> Working at the intersection of **neural audio**, **VR hardware**, **applied computer vision**, and **hardware product development** — the unglamorous parts of shipping AI software, where academia ends and a working `.exe` begins.
+> Working at the intersection of **neural audio**, **VR hardware**, **applied computer vision**, and **hardware product development**.
 
 ```yaml
 # dime.yaml
-alias:      Dime
-role:       mechanical engineer · ships software
-domains:    [ neural audio, VR hardware, applied CV, hardware product dev ]
-active:     Catboard — voice-cloning soundboard (closed beta)
-method:     design the problem, iterate with an agent-in-loop
-shipping:   one machine · no cluster · no subscription · no PhD
+role:      mechanical engineer · ships software
+focus:     [ neural audio, VR hardware, applied CV, hardware product dev ]
+current:   Catboard — voice-cloning soundboard (closed beta)
 ```
 
 ### What I'm building
@@ -45,8 +42,8 @@ shipping:   one machine · no cluster · no subscription · no PhD
 | --- | --- |
 | **Catboard** — voice-cloning soundboard for Discord / VRChat · Windows · closed beta | **Seedance watermark remover** — OpenCV + LaMa inpainting · MIT |
 | **Varjo eye streamer** — bridge for Varjo headset eye-tracking | **SteamVR lighthouse control** — BLE power management |
-| **Vive Pro Eye disconnect watchdog** — Windows tray utility | _…more as they mature_ |
+| **Vive Pro Eye disconnect watchdog** — Windows tray utility |  |
 
 ### Contact
 
-`dime-online` on GitHub · DMs open · no real name by choice · reply time depends on whether I'm shipping
+`dime-online` on GitHub · DMs open · anonymous by choice
