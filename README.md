@@ -20,7 +20,7 @@
 
 ```yaml
 # dime.yaml
-role:      mechanical engineer · builds useful tools on the side
+role:      professional mechanical engineer · builds useful tools on the side
 focus:     [ neural nets & ML, VR hardware, applied CV, hardware product dev ]
 current:   Catboard — voice-cloning soundboard (closed beta)
 ```
