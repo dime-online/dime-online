@@ -1,16 +1,15 @@
 <div align="center">
 
-<img src="dime.svg" alt="DIME" width="802" />
+<img src="dime.svg" alt="DIME" width="485" />
 
 <em>Mechanical engineer who ships software for fun.</em>
 
 <p>
-  <a href="https://github.com/dime-online">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-  </a>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgMGgxMXYxMUgwek0xMyAwaDExdjExSDEzek0wIDEzaDExdjExSDB6TTEzIDEzaDExdjExSDEzeiIvPjwvc3ZnPg%3D%3D" alt="windows" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android" />
   <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="cuda" />
+  <img src="https://img.shields.io/badge/SteamVR-171a21?style=for-the-badge&logo=steam&logoColor=white" alt="steamvr" />
+  <img src="https://img.shields.io/badge/Meta%20Quest-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="meta quest" />
 </p>
 
 </div>
