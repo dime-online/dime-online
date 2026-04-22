@@ -2,7 +2,7 @@
 
 <img src="dime.svg" alt="DIME" width="485" />
 
-<em>Mechanical engineer who ships software for fun.</em>
+<em>it compiles ¯\\\_(ツ)\_/¯ ship it</em>
 
 <p>
   <a href="https://developer.microsoft.com/en-us/windows/"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgMGgxMXYxMUgwek0xMyAwaDExdjExSDEzek0wIDEzaDExdjExSDB6TTEzIDEzaDExdjExSDEzeiIvPjwvc3ZnPg%3D%3D" alt="windows" /></a>
