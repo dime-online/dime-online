@@ -34,6 +34,8 @@ current:   [ Catboard v0.2 — live voice-to-voice, Prismure — VRChat captions
 | **Vive Pro Eye disconnect watchdog** — Windows tray utility | **SteamVR lighthouse BLE control** — Bluetooth manager for base stations |
 | **Download center** — public Windows installers for some of the above · hosting | **Personal site** — home base + project index |
 
+<sub>`public != open_source` — released, but the source stays closed · the open-source stuff is pinned below ↓</sub>
+
 ### Contact
 
 `dime-online` on GitHub · [open an issue](https://github.com/dime-online/dime-online/issues/new) to say hi
