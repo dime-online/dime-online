@@ -27,14 +27,12 @@ current:   [ Catboard v0.2 — live voice-to-voice, Prismure — VRChat captions
 
 ### What I'm building
 
-| **Public** | **Private** |
+| Public | Private |
 | --- | --- |
-| **Catboard** — voice-cloning soundboard for Discord / VRChat · Windows · closed beta · live voice-to-voice in testing | Prismure — live VRChat captions for deaf & hard-of-hearing players |
-| **Varjo eye streamer** — bridge for Varjo headset eye-tracking | Seedance watermark remover |
-| **Vive Pro Eye disconnect watchdog** — Windows tray utility | SteamVR lighthouse BLE control |
-| **Personal site** — home base + project index | |
-| **Download center** — public Windows installers for some of the above · hosting | |
-| *…more coming soon* | *…and others* |
+| **Catboard** — voice-cloning soundboard for Discord / VRChat · Windows · closed beta · live voice-to-voice in testing | **Prismure** — live VRChat captions for deaf & hard-of-hearing players |
+| **Varjo eye streamer** — bridge for Varjo headset eye-tracking | **Seedance watermark remover** — cleanup tool for AI video |
+| **Vive Pro Eye disconnect watchdog** — Windows tray utility | **SteamVR lighthouse BLE control** — Bluetooth manager for base stations |
+| **Download center** — public Windows installers for some of the above · hosting | **Personal site** — home base + project index |
 
 ### Contact
 
