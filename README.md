@@ -22,7 +22,7 @@
 # dime.yaml
 role:      professional mechanical engineer · builds useful tools on the side
 focus:     [ neural nets & ML, real-time audio, VR hardware, applied CV, hardware product dev ]
-current:   [ Catboard v0.2 — live voice-to-voice, Prismure — VRChat captions ]
+current:   [ Catboard — live voice-to-voice, Prismure — VRChat captions ]
 ```
 
 ### What I'm building
