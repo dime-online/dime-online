@@ -16,26 +16,26 @@
 
 &nbsp;
 
-> Working at the intersection of **neural nets & ML**, **VR hardware**, **applied computer vision**, and **hardware product development**.
+> Working at the intersection of **neural nets & ML**, **real-time audio**, **VR hardware**, **applied computer vision**, and **hardware product development**.
 
 ```yaml
 # dime.yaml
 role:      professional mechanical engineer · builds useful tools on the side
-focus:     [ neural nets & ML, VR hardware, applied CV, hardware product dev ]
-current:   Catboard — voice-cloning soundboard (closed beta)
+focus:     [ neural nets & ML, real-time audio, VR hardware, applied CV, hardware product dev ]
+current:   [ Catboard v0.2 — live voice-to-voice, Prismure — VRChat captions ]
 ```
 
 ### What I'm building
 
 | **Public** | **Private** |
 | --- | --- |
-| **Catboard** — voice-cloning soundboard for Discord / VRChat · Windows · closed beta | Seedance watermark remover |
-| **Varjo eye streamer** — bridge for Varjo headset eye-tracking | SteamVR lighthouse BLE control |
-| **Vive Pro Eye disconnect watchdog** — Windows tray utility | |
+| **Catboard** — voice-cloning soundboard for Discord / VRChat · Windows · closed beta · live voice-to-voice in testing | Prismure — live VRChat captions for deaf & hard-of-hearing players |
+| **Varjo eye streamer** — bridge for Varjo headset eye-tracking | Seedance watermark remover |
+| **Vive Pro Eye disconnect watchdog** — Windows tray utility | SteamVR lighthouse BLE control |
 | **Personal site** — home base + project index | |
 | **Download center** — public Windows installers for some of the above · hosting | |
 | *…more coming soon* | *…and others* |
 
 ### Contact
 
-`dime-online` on GitHub · DMs open
+`dime-online` on GitHub · [open an issue](https://github.com/dime-online/dime-online/issues/new) to say hi
